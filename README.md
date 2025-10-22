@@ -1,2 +1,2 @@
-# Sofka_reto_tecnico_a
+# Sofka_reto_tecnico
 #Ejercicio Practico Arquitectura de Microservicios
